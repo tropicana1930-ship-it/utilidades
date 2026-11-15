@@ -4,7 +4,7 @@ Sitio web estático para México, con cuatro herramientas: calculadora de IVA, c
 
 ## Desplegar
 
-Conectar este repositorio a Vercel o Cloudflare Pages, directorio raíz ./, sin comando de build. Dominio previsto para enlaces SEO: https://utilidades-mx.pages.dev. Actualizar canonical/sitemap si el dominio cambia.
+Conectar este repositorio a Vercel o Cloudflare Pages, directorio raíz ./, sin comando de build. Dominio previsto para enlaces SEO: https://utilidades-mx-yamis-projects-c7b04fa6.vercel.app. Actualizar canonical/sitemap si el dominio cambia.
 
 ## Monetización
 
